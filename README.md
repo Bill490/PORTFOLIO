@@ -9,3 +9,12 @@ My younger brother is exactly funny Any comments for my younger brother is welco
 
 ## IMAGE 1
 <img src="https://github.com/Bill490/Exactly-My-Brother/blob/main/B1.jpg?raw=true">
+
+## IMAGE 2
+<img src="https://github.com/Bill490/Exactly-My-Brother/blob/main/B2.jpg?raw=true">
+
+##IMAGE 3
+<imag src="https://github.com/Bill490/Exactly-My-Brother/blob/main/B3.jpg?raw=true">
+  
+  ##IMAGE 4
+  <img src="https://github.com/Bill490/Exactly-My-Brother/blob/main/B4.jpg?raw=true">
