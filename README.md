@@ -24,6 +24,10 @@ My younger brother is exactly funny Any comments for my younger brother is welco
 <h1 style="color:purple;">Twine Game</h1>
 BEAT PRODUCTION
 
+<h1 style="color:red;">IMPORTANT INFO!</h1>
+
+For the MAIN INSTRUMENT part, hover the mouse cursor to the left after checking the sounds. The Arrow button to go back is quite hidden, so use this and try to go back to the previous sections. 
+
 
 
 
