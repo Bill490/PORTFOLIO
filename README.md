@@ -26,7 +26,7 @@ BEAT PRODUCTION
 
 <h1 style="color:red;">IMPORTANT INFO!</h1>
 
-For the MAIN INSTRUMENT part, hover the mouse cursor to the left after checking the sounds. The Arrow button to go back is quite hidden, so use this and try to go back to the previous sections. 
+For the MAIN SOUNDS part, hover the mouse cursor to the left after checking the sounds. The Arrow button to go back is quite hidden, so use this and try to go back to the previous sections. 
 
 
 
